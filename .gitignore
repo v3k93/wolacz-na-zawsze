@@ -1,0 +1,9 @@
+config.json
+state.json
+watcher.log*
+build/
+dist/
+paczka/
+*.spec
+*.zip
+__pycache__/

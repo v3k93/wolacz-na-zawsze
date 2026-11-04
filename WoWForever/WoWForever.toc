@@ -1,0 +1,10 @@
+## Interface: 30300, 16001, 11507, 50500, 110207, 120001, 120105
+## Title: WoW Forever
+## Notes: Jednym kliknięciem woła ekipę na Discorda (Dungeon Finder / Battleground / grupa). Wymaga programu WoW Forever Watcher.
+## Author: Piotr
+## Version: 1.0.0
+## SavedVariables: WoWForeverDB
+## IconTexture: Interface\Icons\Ability_Warrior_BattleShout
+## DefaultState: enabled
+
+WoWForever.lua
